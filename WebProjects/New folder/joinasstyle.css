@@ -1,0 +1,95 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background-color: lightgrey;
+}
+
+header{
+	height: 65px;
+	border-bottom: 1px solid black; 
+	width: all;
+	background-color: #343434;
+	box-shadow: 2px 3px 2px grey;
+}
+
+.left-nav{
+	float: left;
+}
+
+.right-nav{
+	float: right ;
+}
+
+.navbtn{
+	color:white;
+	width: 120px;
+	border: none;
+	border-left: 1px solid lightgrey;
+	height: 80px;
+	box-shadow: 3px 2px 1px grey;
+	background: black;
+}
+
+.navbtn:hover{
+	background: #0078FF;
+	transition: 0.3s;
+}
+
+.container
+{
+	min-height: 100%;
+}
+
+.middle{
+	margin-top: 5%;
+	margin-left: 32.25%;
+	border:1px solid black;
+	background: rgba(255, 255, 255,0.7);
+	padding: 20px;
+	width: 500px;
+	height: 380px;
+}
+
+.select{
+	width: 145%;
+	height: 40px;
+	border: 1px solid #0078FF; 
+	padding-left: 5px;
+}
+
+.inputfield{
+	width: 180%;
+	height: 50px;
+	border: none;
+	background: rgba(255,255,255,0.1);
+	border-bottom: 1px solid grey;
+	padding-left: 5px;
+}
+
+.btn{
+	background: #0078FF;
+	border: none;
+    padding: 5px;
+    width: 100px;
+    height: 40px;
+    margin-left: 60%;
+    color: white;
+}
+
+
+tr{
+	height: 70px;
+}
+
+
+.footer
+{
+	background: black;
+	height: 50px;
+	margin-top: -50px;
+	clear: both;
+	color: white;
+	text-align: center;
+	font-family: courier;
+	margin-top: 7.8%;
+}
