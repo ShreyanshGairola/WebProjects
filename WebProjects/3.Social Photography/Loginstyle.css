@@ -1,0 +1,72 @@
+.header{
+	border: 1px solid black;
+    width: 600px;
+    height: 400px;
+    margin: 70px 370px;
+    background-color: #00000A;
+    opacity: 0.7;  
+    border-radius: 5px;
+}
+
+.inp{
+	padding: 14px;
+	border: 1px solid black;
+	width: 270px;
+	margin: 4px 0px;
+
+}
+
+.error{
+	width: 520px;
+	height: 50px;
+	margin: 0px auto;
+	border: 1px solid #a94442;
+	color: #FDE5E5;
+	background: #EC5858;
+	border-radius: 5px; 
+	text-align: center;
+	
+}
+
+.text{
+	width: 200px;
+	padding: 14px;
+	color: white;
+}
+
+.heading{
+    padding: 20px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.link{
+	text-decoration-style: bold;
+}
+
+.footer{
+	background-color: #00000A;
+    opacity: 0.9; 
+    height: 56px;
+	border-top: 1px solid black;
+	border-radius: 5px 5px 0px 0px;
+}
+
+.btn{
+	border: 1px solid black;
+	margin: 15px 0px;
+	padding: 10px;
+	width: 100px;
+	background: powderblue;
+	color: black;
+	border-radius: 5px;
+}
+
+.link{
+	color: white;
+	text-decoration: none;
+}
+body{
+	background-image: url('Registerback.jpg');
+	background-size: cover;
+}

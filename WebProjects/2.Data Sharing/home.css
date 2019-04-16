@@ -1,0 +1,91 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.header {
+	width: 70%;
+	margin: 50px auto 0px;
+	color: white;
+	background: #9A98CA   ;
+	text-align: center;
+	border: 1px solid #BAB8E3;
+	border-bottom: 0px;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+
+.headers {
+	width: 70%;
+	margin: 50px auto 0px;
+	color: white;
+	background: #9A98CA   ;
+	text-align: center;
+	border: 1px solid #BAB8E3;
+	border-bottom: 0px;
+	border-radius: 10px 10px 10px 10px;
+	padding: 20px;
+}
+
+
+
+form {
+	width: 70%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #BAB8E3;
+	background: #DCE8F0;
+	border-radius: 0px 0px 10px 10px;
+}
+
+.input-group {
+	margin: 10px 0px 10px 0px;
+	text-align: center;
+	font-size: 120%;
+}
+
+.input-group input{
+	height: 30px;
+	border: 1px solid black;
+	border-radius: 5px;
+	width: 40%;
+	text-align: center;
+}
+
+.btn {
+	padding: 8px;
+	font-size: 15px;
+	color: white;
+	background: #4388BA;
+	border: none;
+	border-radius: 5px;
+}
+
+.heading{
+	text-align: center;
+}
+
+.files{
+	text-align: center;
+}
+
+.error{
+	width: 30%;
+
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid #a94442;
+	color: #FDE5E5;
+	background: #EC5858;
+	border-radius: 5px; 
+	text-align: center;
+	
+}
+
+.field{
+	margin: 0px auto;
+	padding: 5px;
+	border: 1px solid #4388BA;
+	border-radius: 5px;
+	background: #D4D2F0;
+}

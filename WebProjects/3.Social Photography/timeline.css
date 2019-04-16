@@ -1,0 +1,85 @@
+h2 
+{
+	background-color: black;
+	margin-top: 0px; 
+	margin-bottom: 10px;
+	border-collapse: collapse;
+}
+body
+{
+	background-color: black;
+}
+
+.panel 
+{
+	padding: 20px grey;
+	background-color: black;
+	border: 1px solid grey;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.set{
+	border-style: all;
+	background-color: black;
+	color:white;
+	padding: 10px;
+	text-align: center;
+}
+
+.set:hover {
+	background-color: white;
+	transition: 0.3s;
+	color: black;
+}
+
+.profile
+{
+	margin: 0px 44%;
+	display: inline-block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border: 1px solid #000C61;
+}
+
+.back{
+	margin: 10px;
+	border: 1px solid #130F6B;
+	border-radius: 5px;
+	background-color: rgba(135,133,180,0.3);
+}
+
+.img{
+	margin-top: 5px; 
+	object-fit: cover;
+	height: 350px;
+	width: 400px;
+	opacity: 0.9;
+}
+
+.img:hover{
+	opacity: 1;
+}
+
+.imageback{
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+
+.element{
+	margin-left: 10px;
+	margin-bottom: 50px;
+	height: 400px;
+}
+
+.bttn{
+	background-color: rgba(300, 300, 300,0.5);
+	border: 0px;
+	margin-bottom: 15px;
+}
